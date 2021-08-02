@@ -1,4 +1,5 @@
 # 二分探索を用いた解法
+# あまり理解はしていない
 import math
 def solve(n, k, l,a_list, mid):
   cnt = 0
