@@ -1,3 +1,4 @@
+# a
 n,a,x,y = map(int,input().split())
 
 sum = 0
